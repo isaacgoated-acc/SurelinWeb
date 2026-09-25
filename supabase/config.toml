@@ -1,0 +1,2 @@
+[functions.surelin-api]
+verify_jwt = false
